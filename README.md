@@ -1,0 +1,1 @@
+This is an empty repository used to show the use of Git from the terminal.
